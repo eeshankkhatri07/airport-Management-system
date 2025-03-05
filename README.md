@@ -1,2 +1,10 @@
 # airport-Management-system
-A Java-based application for airport staff to manage ticket bookings, flight schedules, and cancellations. Built using NetBeans and Swing, it features an interactive GUI with event handling and connects to a MySQL database via XAMPP for data management.  🔹 Tech Stack: Java, NetBeans, Swing, MySQL, XAMPP.
+A Java-based application designed for airport staff to manage ticket bookings, flight schedules, and cancellations efficiently. Developed using NetBeans and Swing, the project features an interactive GUI with forms, buttons, and event handling. The system connects to a MySQL database via XAMPP, ensuring smooth data management.
+
+🔹 Features:
+✅ Ticket Booking & Cancellation
+✅ Flight Schedule Management
+✅ User-friendly GUI with Swing Forms
+✅ MySQL Database Integration
+
+🚀 Technologies Used: Java, NetBeans, Swing, MySQL, XAMPP
